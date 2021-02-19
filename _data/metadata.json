@@ -1,5 +1,5 @@
 {
-  "title": "that Chris guy. Blogging.",
+  "title": "that Chris guy",
   "url": "https://chrisrindone.com",
   "domain": "chrisrindone.com",
   "description": "This is that Chris guy's blog.",
@@ -10,7 +10,7 @@
     "subtitle": "that Chris guy's feed",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://chrisrindone.com"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
