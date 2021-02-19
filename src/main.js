@@ -47,7 +47,7 @@ function share(anchor) {
     });
   } else if (navigator.clipboard) {
     navigator.clipboard.writeText(url);
-    message("Article URL copied to clipboard.");
+    message("A link to this page has been copied to clipboard. Please paste it into your share post.");
   } else {
     tweet_(url);
   }
