@@ -21,3 +21,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- posts/just-a-tiny-test-post.md
