@@ -1057,7 +1057,7 @@ header nav {
   left: 0;
   width: 100vw;
   padding: 0.375em 1.5em;
-  background: hsla(0, 0%, 100%, 0.9);
+  background: hsla(254, 100%, 12%, 0.9);
   font-weight: 200;
   text-align: right;
 }
@@ -1072,7 +1072,7 @@ header nav a {
   font-weight: 700;
   text-decoration: none;
   font-family: var(--font-family);
-  color: #181818;
+  color: hsla(360, 100%, 100%, 0.85);
   margin-left: 1.5em;
 }
 header nav a:first-of-type {
