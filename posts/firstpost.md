@@ -1,30 +1,21 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
-tags:
-- another-tag
+title: What is This?
+description: A brief explanation about this blog
+date: 2021-02-15T06:00:00Z
+tags: []
 layout: layouts/post.njk
-image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
+image: ''
 
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. 
+### Welcome to my latest experiment. 
 
-![An image](https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg)
+![](https://res.cloudinary.com/chrisrindone/image/upload/v1614605722/i-build-1-comp_tfsnjo.jpg)
 
-## Section Header
+The purpose of this blog - at least for now - is to introduce myself to some newer tech, improved development and design practices, and to keep a record of this journey for posterity😂.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Or this.
+Some of my initial goals here are:
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+1. To get comfortable with the ins and outs of [11ty](https://www.11ty.dev/ "11ty"), a simple but powerful static site generator, (this blog uses the template and tech created by [@cramforce](https://twitter.com/cramforce "@cramforce"). Details [can be found here](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/ "a high-performance blog template for 11ty").)
+2. Gain a better understanding of performance enhancements for websites. You may have noticed that this blog is _WICKED_ fast.
+3. Learn how to better use the [jamstack](https://jamstack.org/ "jamstack") and "[serverless](https://serverless.css-tricks.com/ "The Power of Serverless")" tech so as to improve my opportunities to make some dough 💰!
